@@ -5,3 +5,7 @@ dist/
 .pytest_cache/
 target/
 *.so
+.venv/
+results/
+data/
+hyps/
